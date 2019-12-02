@@ -1,0 +1,9 @@
+{
+    "symbolic_name": "p1 vođenje magacina",
+    "name": "Vođenje Magacina",
+    "size": 25.2,
+    "category": "Magacin",
+    "version": "1.0.0",
+    "enabled": true,
+    "description": "Vođenje Magacina."
+}
